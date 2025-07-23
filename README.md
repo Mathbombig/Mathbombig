@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: block; margin: 0 auto;">
 <img src="https://i.pinimg.com/originals/71/7e/cd/717ecde38ebb3f954975d7a9547f9f60.gif" width="100" height="200" alt="Exemplo de imagem">
 </div>
 <h1> Olá, me chamo Matheus e sou apaixonado por programação!!</h1>
