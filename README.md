@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/71/7e/cd/717ecde38ebb3f954975d7a9547f9f60.gif" width="100" height="200" alt="Exemplo de imagem">
 </div>
 <h1> Olá, me chamo Matheus e sou apaixonado por programação!!</h1>
-<p><img src="https://png.pngtree.com/png-clipart/20191121/original/pngtree-beautiful-triangle-vector-line-icon-png-image_5092800.jpg" width="25" height="25" alt="Exemplo de imagem">Comecei meus estudos aos 14 anos, gostaria de compartilhar
+<p><img src="https://cdn-icons-png.flaticon.com/512/8106/8106506.png" width="25" height="25" alt="Exemplo de imagem">Comecei meus estudos aos 14 anos, gostaria de compartilhar
   algumas de minhas pequenas mas significativas conquistas</p>
 
-https://cdn-icons-png.flaticon.com/512/8106/8106506.png
+
